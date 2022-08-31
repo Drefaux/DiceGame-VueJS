@@ -1,4 +1,4 @@
-# hellow
+# hello
 
 > A Vue.js project
 
